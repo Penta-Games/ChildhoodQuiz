@@ -54,7 +54,7 @@
     <string name="noCoinsDlg">You don\'t have enough coins!</string>
     <string name="correctDlg">Congratulations!</string>
     <string name="wrongDlg">Wrong!</string>
-    <string name="videoAdDlg">You want to see a video ad to get 25 free coins?</string>
+    <string name="videoAdDlg">You want to see a rewarded video ad to get 25 free coins?</string>
     <string name="resetDlg">After reset you will lose your score, coins and answers. Continue?</string>
     <string name="exitDlg">Are you sure you want to exit?</string>
     <string name="finishDlg">Great Job!\nYou have finished the game :)</string>
@@ -97,7 +97,7 @@
     <string name="impressumTitle">Imprint</string>
     <string name="impressum_pollfish_title">Disclaimer:</string>
     <string name="impressum_pollfish_content">
-This is an unofficial app, which was made by two students. If your content is shown in this app and you don't agree with it, please send us an E-mail to blackskystudios.business@gmail.com.\nWe'll remove the data as soon as possible.</string>
+This is an unofficial app, which was made by two students. If your content is shown in this app and you don\'t agree with it, please send us an E-mail to blackskystudios.business@gmail.com.\nWe\'ll remove the data as soon as possible.</string>
 
 
 
